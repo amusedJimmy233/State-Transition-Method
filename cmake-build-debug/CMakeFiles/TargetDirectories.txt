@@ -1,0 +1,3 @@
+/Users/jimmy233/Desktop/c++/Compilation Principle/State Transition Method/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jimmy233/Desktop/c++/Compilation Principle/State Transition Method/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jimmy233/Desktop/c++/Compilation Principle/State Transition Method/cmake-build-debug/CMakeFiles/State_Transition_Method.dir

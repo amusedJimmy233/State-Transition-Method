@@ -1,0 +1,4 @@
+int n,kk;
+if(2052217<25) kk1=1;
+Else (n>=25) kk2=2++;
+break
